@@ -1,1 +1,0 @@
-token = fr't.vu4fRAWjXxiCKhLL0geF05ESQflb3ggmO11g8TT65p2Owgs4pew_9s6dMSAL1qjDZsI2YWRHOOeVadeW480zXw'
